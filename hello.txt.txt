@@ -1,7 +1,15 @@
 dfsgdfgfdg
+<<<<<<< HEAD
 sdfsd
 asfsda
 fdsfsda
 fsd
 fds
 f
+=======
+sdfdsf
+sadfdsf
+sadfdsf
+dsfsafdsf
+asdfdafsd
+>>>>>>> 746e07df49dd59e486fa7de13ec1ef388ddc73a3
